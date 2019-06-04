@@ -3,4 +3,5 @@
     <string name="action_settings">Settings</string>
     <string name="title_activity_add_note">AddNoteActivity</string>
     <string name="title_activity_view_note">ViewNote</string>
+    <string name="ViewNote">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam distinctio excepturi ipsa modi nulla obcaecati placeat tempora. Cum doloribus eligendi illo inventore ipsum iste labore nam reprehenderit sed velit! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid animi culpa debitis ducimus excepturi illo maxime minima nemo non obcaecati quasi qui recusandae sit, veritatis! Iusto nemo pariatur possimus.</string>
 </resources>
